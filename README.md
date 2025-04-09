@@ -1,4 +1,4 @@
-# 👋 Wstęp do prezentacji – Czy zwykły SQL wystarczy?
+# 👋 Czy zwykły SQL wystarczy?
 
 Wyobraźcie sobie taką sytuację:
 
