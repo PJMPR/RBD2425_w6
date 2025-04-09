@@ -91,5 +91,4 @@ CALL update_order_status(3, 'shipped');
 
 ---
 
-W następnych krokach możemy rozszerzyć temat o funkcje składowane i triggery z przykładami opartymi na tej samej bazie danych.
 
