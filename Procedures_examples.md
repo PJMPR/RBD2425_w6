@@ -1,6 +1,6 @@
-# 🧪 Przykłady zaawansowanych konstrukcji w procedurach MariaDB
+# 🧪 Przykłady podstawowych konstrukcji w procedurach MariaDB
 
-Poniżej przedstawiono po jednym przykładzie dla każdej z konstrukcji logicznych dostępnych w procedurach składowanych w MariaDB. Każdy przykład zawiera wyjaśnienie działania poszczególnych elementów kodu.
+Poniżej przedstawiono po jednym przykładzie dla każdej z konstrukcji logicznych dostępnych w procedurach składowanych w MariaDB.
 
 ---
 
