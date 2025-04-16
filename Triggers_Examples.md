@@ -1,6 +1,5 @@
 # 🧪 Przykłady praktycznych triggerów w MariaDB
 
-Poniżej przedstawiono ciekawe i praktyczne triggery dostosowane do struktury Twojej bazy danych. Każdy z nich rozwiązuje realny problem i automatyzuje procesy związane z danymi.
 
 ---
 
